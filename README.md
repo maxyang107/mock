@@ -1,6 +1,6 @@
 # API数据mock包
 
-说明，本mock包给予github.com/antlabs/mock 二开改造而来
+说明，本mock包给予github.com/antlabs/mock 二开改造而来,如果对你有所帮助，请给我和原作者点个start吧，谢谢
 
 ## 一、安装使用
 ```
