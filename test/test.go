@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"mock"
+
+	"github.com/maxyang107/mock"
 )
 
 type Resp struct {
